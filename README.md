@@ -37,6 +37,3 @@ Expected damage: 2.22
 
 - Python 3
 
-## Author
-
-GitHub: icherzahlung
